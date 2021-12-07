@@ -16,4 +16,6 @@ It looks like the new 0day LFI in Grafana exists thanks to the grafana-clock-pan
 #### [Vulnmachines.com](https://www.vulnmachines.com)
 #### [LinkedIn](https://www.linkedin.com/in/punit-darji-5500/)
 #### [Business query](https://www.rapidsafeguard.com)
+
+### Let's connect
 #### [LinkedIn](https://www.linkedin.com/in/punit-darji-5500/)
