@@ -61,12 +61,9 @@ It looks like the new 0day LFI in Grafana exists thanks to the grafana-clock-pan
 ### Proof
 ![PoC](https://raw.githubusercontent.com/Vulnmachines/grafana-unauth-file-read/main/Grafana.PNG)
 
-### Follow us
-#### [Youtube](https://www.youtube.com/c/rapidsafeguard)
-#### [Twitter](https://www.twiiter.com/rapidsafeguard)
-#### [Telegram](https://t.me/rapidsafeguard)
-#### [Vulnmachines.com](https://www.vulnmachines.com)
-#### [Business query](https://www.rapidsafeguard.com)
+#### Follow us [Vulnmachines](https://www.twitter.com/vulnmachines)
+#### [YouTube](https://www.youtube.com/c/vulnmachines)
+#### [Twitter](https://www.twitter.com/vulnmachines)
+#### [Facebook](https://www.facebook.com/vulnmachines)
+#### [LinkedIn](https://www.linkedin.com/company/vulnmachines)
 
-### Let's connect
-#### [LinkedIn](https://www.linkedin.com/in/punit-darji-5500/)
